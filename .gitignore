@@ -1,0 +1,20 @@
+# CHAVES API — NUNCA subir isso!
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
