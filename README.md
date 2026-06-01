@@ -51,3 +51,5 @@ clark/
 └── static/
     └── clark-img.png   # Avatar do C.L.A.R.K.
 ```
+## Imagem do Projeto:
+<img src="img/imagem do projeto.png" alt="imagem do projeto">
